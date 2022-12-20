@@ -49,7 +49,7 @@ You can get the required files which are needed for the reproduction of our subm
 ├── required_packages.txt			                              # Required packages
 ├── functions.py			                                       # Functions to compute f1
 ├── google colab.ipynb                                    # Use google colab to run our code
-├── report.pdf                                            # This is our experiment report
+├── ML_project_2.pdf                                      # This is our experiment report
 └── README.md
 ```
 The best result we get in AICROWD is RR_Unet with 0.0007 learning rate and batch size 6.  
